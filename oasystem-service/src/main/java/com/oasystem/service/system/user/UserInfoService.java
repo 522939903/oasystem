@@ -6,12 +6,7 @@ import com.oasystem.model.dto.UserQueryDTO;
 
 import java.util.List;
 
-/**
- * @ClassName UserInfoService
- * @Description
- * @Author suguoming
- * @Date 2020/2/11 4:08 下午
- */
+
 public interface UserInfoService {
 
 

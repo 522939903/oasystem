@@ -11,12 +11,7 @@ import javax.annotation.Resource;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @ClassName SysLogServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 1:08 下午
- */
+
 @Service
 public class SysLogServiceImpl implements SysLogService {
 

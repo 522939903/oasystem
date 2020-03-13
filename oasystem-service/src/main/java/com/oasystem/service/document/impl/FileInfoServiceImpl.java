@@ -21,12 +21,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @ClassName FileInfoServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 3:10 下午
- */
+
 @Service
 public class FileInfoServiceImpl implements FileInfoService {
 

@@ -16,12 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
 
-/**
- * @ClassName TrashController
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 11:14 上午
- */
+
 @Api(tags = "回收站管理")
 @Controller
 @RequestMapping("/trash")

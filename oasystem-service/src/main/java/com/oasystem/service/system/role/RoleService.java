@@ -6,12 +6,7 @@ import com.oasystem.model.RoleInfo;
 
 import java.util.List;
 
-/**
- * @ClassName RoleService
- * @Description
- * @Author suguoming
- * @Date 2020/2/11 4:06 下午
- */
+
 public interface RoleService {
 
     /**

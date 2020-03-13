@@ -1,9 +1,5 @@
-package com.oasystem.config; /**
- * @ClassName GlobalCorsConfig
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 5:54 下午
- */
+package com.oasystem.config;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.cors.CorsConfiguration;

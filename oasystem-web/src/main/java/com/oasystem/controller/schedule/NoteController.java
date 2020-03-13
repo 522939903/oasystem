@@ -12,12 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName NoteController
- * @Description
- * @Author suguoming
- * @Date 2020/2/26 8:50 下午
- */
+
 @Api(tags = "便签模块")
 @Controller
 @RequestMapping("/note")

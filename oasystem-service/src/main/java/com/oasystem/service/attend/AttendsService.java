@@ -10,12 +10,7 @@ import com.oasystem.model.vo.AttendVo;
 
 import java.util.List;
 
-/**
- * @ClassName AttendsService
- * @Description
- * @Author suguoming
- * @Date 2020/2/11 2:50 下午
- */
+
 public interface AttendsService {
 
     /**

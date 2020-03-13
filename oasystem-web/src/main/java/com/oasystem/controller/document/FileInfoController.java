@@ -21,12 +21,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @ClassName FileInfoController
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 3:12 下午
- */
+
 @Api(tags = "文档管理模块")
 @Controller
 @RequestMapping("/document")

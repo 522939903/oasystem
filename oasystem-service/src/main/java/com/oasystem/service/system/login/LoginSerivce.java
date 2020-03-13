@@ -4,12 +4,7 @@ import com.oasystem.ResultDTO;
 import com.oasystem.model.UserLoginInfo;
 import com.oasystem.model.dto.LoginInfo;
 
-/**
- * @ClassName LoginSerivce
- * @Description
- * @Author suguoming
- * @Date 2020/2/11 4:05 下午
- */
+
 public interface LoginSerivce {
 
     /**

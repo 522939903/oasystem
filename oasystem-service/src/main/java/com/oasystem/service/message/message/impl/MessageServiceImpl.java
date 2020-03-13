@@ -16,12 +16,7 @@ import org.springframework.stereotype.Service;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * @ClassName MailServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 12:35 上午
- */
+
 @Service
 public class MessageServiceImpl implements MessageService {
 

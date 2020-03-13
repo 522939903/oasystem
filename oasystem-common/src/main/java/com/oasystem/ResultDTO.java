@@ -2,12 +2,6 @@ package com.oasystem;
 
 import java.io.Serializable;
 
-/**
- * @ClassName ResultDTO
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 11:33 下午
- */
 public class ResultDTO<T> implements Serializable {
     private static final long serialVersionUID = 1L;
     private boolean success;

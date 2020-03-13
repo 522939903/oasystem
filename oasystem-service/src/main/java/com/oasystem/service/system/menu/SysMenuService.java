@@ -5,12 +5,7 @@ import com.oasystem.model.SysMenu;
 
 import java.util.List;
 
-/**
- * @ClassName SysMenuService
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 1:09 上午
- */
+
 public interface SysMenuService {
 
     /**

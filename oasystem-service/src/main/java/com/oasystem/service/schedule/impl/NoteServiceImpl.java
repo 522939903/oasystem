@@ -15,12 +15,6 @@ import org.springframework.stereotype.Service;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @ClassName NoteServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/26 8:43 下午
- */
 
 @Service
 public class NoteServiceImpl implements NoteService {

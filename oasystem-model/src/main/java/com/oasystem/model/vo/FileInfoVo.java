@@ -6,12 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.io.Serializable;
 
-/**
- * @ClassName FileInfoVo
- * @Description
- * @Author suguoming
- * @Date 2020/2/19 6:10 下午
- */
+
 public class FileInfoVo extends FileInfo implements Serializable {
     private static final long serialVersionUID = 1L;
 

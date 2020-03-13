@@ -2,12 +2,7 @@ package com.oasystem.service.document;
 
 import com.oasystem.ResultDTO;
 
-/**
- * @ClassName TrashService
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 11:14 上午
- */
+
 public interface TrashService {
 
     /**

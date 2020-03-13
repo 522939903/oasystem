@@ -6,12 +6,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ClassName LoginInfo
- * @Description
- * @Author suguoming
- * @Date 2020/2/17 1:30 上午
- */
+
 @Data
 @ApiModel(value = "登录对象", description = "登录对象")
 public class LoginInfo implements Serializable {

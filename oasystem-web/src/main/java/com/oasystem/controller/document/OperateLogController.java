@@ -16,12 +16,7 @@ import javax.annotation.Resource;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @ClassName OperateLog
- * @Description
- * @Author suguoming
- * @Date 2020/2/15 8:57 下午
- */
+
 @Api(tags = "操作日志")
 @Controller
 @RequestMapping("/operateLog")

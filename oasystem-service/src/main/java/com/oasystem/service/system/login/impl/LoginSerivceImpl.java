@@ -10,12 +10,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @ClassName LoginSerivceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/17 1:08 上午
- */
+
 @Service
 public class LoginSerivceImpl implements LoginSerivce {
 

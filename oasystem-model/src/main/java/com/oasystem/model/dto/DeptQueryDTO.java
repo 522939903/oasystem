@@ -6,12 +6,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ClassName DeptQueryDTO
- * @Description
- * @Author suguoming
- * @Date 2020/2/16 9:22 下午
- */
+
 @Data
 @ApiModel(value = "部门查询条件", description = "部门查询条件")
 public class DeptQueryDTO implements Serializable {

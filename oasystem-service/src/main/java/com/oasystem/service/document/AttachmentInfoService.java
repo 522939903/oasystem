@@ -5,12 +5,7 @@ import com.oasystem.model.AttachmentInfo;
 
 import java.util.List;
 
-/**
- * @ClassName AttachmentInfoService
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 2:55 下午
- */
+
 public interface AttachmentInfoService {
     /**
      * 查询所有附件

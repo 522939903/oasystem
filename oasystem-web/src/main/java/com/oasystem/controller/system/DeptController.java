@@ -18,12 +18,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @ClassName DeptController
- * @Description
- * @Author suguoming
- * @Date 2020/2/16 8:50 下午
- */
+
 @Api(tags = "部门管理模块")
 @Controller
 @RequestMapping("/dept")

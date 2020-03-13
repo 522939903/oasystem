@@ -8,12 +8,7 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-/**
- * @ClassName TrashServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 11:17 上午
- */
+
 @Service
 public class TrashServiceImpl implements TrashService {
 

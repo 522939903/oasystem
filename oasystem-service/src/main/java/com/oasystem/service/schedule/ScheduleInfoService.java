@@ -5,12 +5,7 @@ import com.oasystem.model.ScheduleInfo;
 
 import java.util.List;
 
-/**
- * @ClassName ScheduleInfoService
- * @Description
- * @Author suguoming
- * @Date 2020/2/11 3:15 下午
- */
+
 public interface ScheduleInfoService {
 
     /**

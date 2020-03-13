@@ -13,12 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
-/**
- * @ClassName LoginController
- * @Description
- * @Author suguoming
- * @Date 2020/2/17 12:44 上午
- */
+
 @Api(tags = "登录模块")
 @Controller
 @RequestMapping("/login")

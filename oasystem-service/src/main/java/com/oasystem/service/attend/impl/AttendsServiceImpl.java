@@ -22,12 +22,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-/**
- * @ClassName AttendsServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/17 6:39 下午
- */
+
 @Service
 public class AttendsServiceImpl implements AttendsService {
 

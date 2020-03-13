@@ -11,12 +11,7 @@ import org.springframework.util.CollectionUtils;
 import javax.persistence.Id;
 import java.util.List;
 
-/**
- * @ClassName RoleServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 12:21 上午
- */
+
 @Service
 public class RoleServiceImpl implements RoleService {
     @Autowired

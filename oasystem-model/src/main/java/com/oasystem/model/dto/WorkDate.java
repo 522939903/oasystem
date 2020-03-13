@@ -6,12 +6,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ClassName WorkDate
- * @Description
- * @Author suguoming
- * @Date 2020/2/18 11:25 下午
- */
+
 @Data
 @ApiModel(value = "设定工作日条件", description = "设定工作日条件")
 public class WorkDate implements Serializable {

@@ -9,12 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @ClassName FileInfoService
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 3:09 下午
- */
+
 public interface FileInfoService {
 
     /**

@@ -20,12 +20,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * @ClassName UserController
- * @Description
- * @Author suguoming
- * @Date 2020/2/15 11:07 下午
- */
+
 @Api(tags = "用户管理模块")
 @Controller
 @RequestMapping("/user")

@@ -1,11 +1,5 @@
 package com.oasystem.constant;
 
-/**
- * @ClassName OperLogConstant
- * @Description TODO
- * @Author zhangz
- * @Date 2020/2/8 4:18 下午
- */
 public enum OperLogEnum {
     // 新增
     ADD("1", "新增"),

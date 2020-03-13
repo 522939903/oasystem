@@ -6,12 +6,7 @@ import com.oasystem.model.NoteGroup;
 
 import java.util.List;
 
-/**
- * @ClassName NoteService
- * @Description
- * @Author suguoming
- * @Date 2020/2/26 8:39 下午
- */
+
 public interface NoteService {
 
     /**

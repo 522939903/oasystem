@@ -12,12 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName MenuController
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 1:17 上午
- */
+
 @Api(tags = "菜单管理")
 @Controller
 @RequestMapping("/menu")

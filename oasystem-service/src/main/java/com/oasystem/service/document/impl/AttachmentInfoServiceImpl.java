@@ -11,12 +11,7 @@ import javax.annotation.Resource;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @ClassName AttachmentInfoServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/7 2:55 下午
- */
+
 @Service
 public class AttachmentInfoServiceImpl implements AttachmentInfoService {
 

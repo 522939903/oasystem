@@ -7,12 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @ClassName fileQueryDTO
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 12:23 上午
- */
+
 @Data
 @ApiModel(value = "用户查询条件", description = "用户查询条件")
 public class UserQueryDTO implements Serializable {

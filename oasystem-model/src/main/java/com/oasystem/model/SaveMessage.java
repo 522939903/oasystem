@@ -5,12 +5,7 @@ import lombok.Data;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @ClassName SaveMail
- * @Description
- * @Author suguoming
- * @Date 2020/3/5 8:41 下午
- */
+
 @Data
 public class SaveMessage {
 

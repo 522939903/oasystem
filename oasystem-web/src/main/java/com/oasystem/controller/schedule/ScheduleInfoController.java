@@ -11,12 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName ScheduleInfoController
- * @Description
- * @Author suguoming
- * @Date 2020/2/23 12:17 上午
- */
+
 @Api(tags = "日程模块")
 @Controller
 @RequestMapping("/schedule")

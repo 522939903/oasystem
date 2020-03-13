@@ -13,12 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName MailController
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 12:56 上午
- */
+
 @Api(tags = "邮箱模块")
 @Controller
 @RequestMapping("/mail")

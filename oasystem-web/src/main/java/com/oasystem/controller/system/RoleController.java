@@ -12,12 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @ClassName RoleController
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 12:18 上午
- */
+
 @Api(tags = "角色管理")
 @Controller
 @RequestMapping("/role")

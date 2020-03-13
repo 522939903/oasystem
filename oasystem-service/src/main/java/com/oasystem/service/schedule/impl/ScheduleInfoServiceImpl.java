@@ -10,12 +10,7 @@ import org.springframework.util.CollectionUtils;
 
 import java.util.List;
 
-/**
- * @ClassName ScheduleInfoServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/23 12:20 上午
- */
+
 @Service
 public class ScheduleInfoServiceImpl implements ScheduleInfoService {
 

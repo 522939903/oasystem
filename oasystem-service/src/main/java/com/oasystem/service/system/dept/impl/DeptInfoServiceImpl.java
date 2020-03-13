@@ -10,12 +10,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @ClassName DeptInfoServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/2/16 8:54 下午
- */
+
 @Service
 public class DeptInfoServiceImpl implements DeptInfoService {
 

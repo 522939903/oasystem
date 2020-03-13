@@ -5,12 +5,7 @@ import com.oasystem.model.SysLog;
 
 import java.util.List;
 
-/**
- * @ClassName SysLogService
- * @Description
- * @Author suguoming
- * @Date 2020/2/8 1:08 下午
- */
+
 public interface SysLogService {
 
     /**

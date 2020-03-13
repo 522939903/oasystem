@@ -22,12 +22,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.List;
 
-/**
- * @ClassName AttendController
- * @Description
- * @Author suguoming
- * @Date 2020/2/17 6:35 下午
- */
+
 @Api(tags = "考勤管理模块")
 @Controller
 @RequestMapping("/attend")

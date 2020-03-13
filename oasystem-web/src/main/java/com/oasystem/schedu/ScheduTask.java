@@ -13,12 +13,7 @@ import javax.annotation.Resource;
 import java.util.Calendar;
 import java.util.List;
 
-/**
- * @ClassName ScheduTask
- * @Description
- * @Author suguoming
- * @Date 2020/2/18 9:01 下午
- */
+
 
 @Component
 public class ScheduTask {

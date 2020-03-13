@@ -9,12 +9,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @ClassName SysMenuServiceImpl
- * @Description
- * @Author suguoming
- * @Date 2020/3/1 1:14 上午
- */
+
 @Service
 public class SysMenuServiceImpl implements SysMenuService {
 

@@ -6,12 +6,7 @@ import com.oasystem.model.SaveMessage;
 
 import java.util.List;
 
-/**
- * @ClassName MailService
- * @Description
- * @Author suguoming
- * @Date 2020/2/10 4:51 下午
- */
+
 public interface MessageService {
 
     /**
